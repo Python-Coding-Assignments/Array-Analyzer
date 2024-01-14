@@ -20,7 +20,7 @@ This project either prompts the user to enter in a specified number of integers,
 
 The objective of this program is to demonstrate the following: 
 * demonstrate understanding of writing function definitions and calling functions within main
-* amalgamate the current acquired knowledge of Python, such as input/output, if/elif/else statements, loops, random number generation, lists and functions into one program
+* amalgamate the current acquired knowledge of Python, such as input/output, if/elif/else statements, loops, random number generation, lists, and functions into one program
 * further practice the basics of Python arithmetic
 
 This program assumes that the user will enter a valid input each time the program requests an integer value.  The program's output will result in unknown behavior if anything other than an integer is entered by the user.  
